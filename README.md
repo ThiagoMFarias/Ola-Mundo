@@ -1,2 +1,2 @@
-# Ola Mundo
- First repository versioned
+# Olá, Mundo!
+ First repository versioned in the Gustavo's class. 
